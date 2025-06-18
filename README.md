@@ -27,7 +27,6 @@ I thrive on building, organizing, and managing cross-functional initiatives — 
 
 ## 🤝 Let's Connect!  
 - 💼 [LinkedIn](https://www.linkedin.com/in/josephine-opondo-20a94516a/)  
-- 🌐 [My Portfolio Website](#) *(Coming Soon)*  
 - 📬 You can also reach me through GitHub Discussions or Issues on my repos!  
 
 ---
