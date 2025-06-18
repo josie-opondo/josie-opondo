@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Josephine!  
 
-🚀 Aspiring Technical Project Manager | ☁️ Cloud & Open Source Enthusiast | 🛠️ Asana Certified Workflow Specialist
+🚀 Technical Project Manager | ☁️ Cloud & Open Source Enthusiast | 🛠️ Asana Certified Workflow Specialist
 
 I'm passionate about leading impactful tech projects with a strong foundation in **software development**. Currently learning **Go** and diving deeper into **cloud** and **open source** technologies, I'm especially drawn to the intersection of **technical execution** and **strategic planning**.
 
@@ -8,7 +8,7 @@ I thrive on building, organizing, and managing cross-functional initiatives — 
 
 ## 🚀 What I'm Working On  
 - 💻 Improving my **backend skills** in **Go**  
-- ✅ Deepening my workflow management expertise with **GitHub Projects** and **Asana**
+- ✅ Deepening my workflow management expertise with **GitHub Projects** and **Jira**
 - 🎯 Strengthening my knowledge of cloud architecture and services
 
 ## 🧩 Key Skills  
@@ -20,9 +20,9 @@ I thrive on building, organizing, and managing cross-functional initiatives — 
 - Strong Problem-Solving and Communication Skills  
 
 ## 📚 Currently Learning  
-- Go (Backend Development)  
-- Asana Workflow Certification  
-- Advanced Cloud Project Delivery  
+- Go (Backend Development)   
+- Advanced Cloud Project Delivery
+- Open source ecosystem 
 - AI Agents & Prompt Engineering (just for fun 😎)  
 
 ## 🤝 Let's Connect!  
